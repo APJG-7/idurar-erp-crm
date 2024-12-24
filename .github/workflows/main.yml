@@ -4,7 +4,7 @@ run-name: microservices
 on: 
   push:
     branches:
-      - main
+      - master
 
 jobs:
   build:
